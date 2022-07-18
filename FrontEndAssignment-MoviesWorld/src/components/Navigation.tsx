@@ -12,7 +12,7 @@ const NavigationMenu = () => {
                 <FontAwesomeIcon icon = {faFilm}
                     className="ms-4 me-2"
                 />
-                    Movies On the Tip
+                    Movies World
         </Navbar.Brand>
             <Container>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
